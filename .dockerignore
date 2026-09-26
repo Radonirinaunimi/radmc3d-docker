@@ -1,0 +1,8 @@
+.git
+.github
+*.md
+radmc3d-2.0/.git
+radmc3d-2.0/manual
+radmc3d-2.0/examples
+radmc3d-2.0/opac
+radmc3d-2.0/python
