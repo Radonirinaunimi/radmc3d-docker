@@ -18,8 +18,8 @@ docker pull ghcr.io/radonirinaunimi/radmc3d-docker:latest
 
 ### Running with Docker
 
-For the purpose of the following tutorial, mount your model
-directory into `/work`:
+For the purpose of the following tutorial, first mount your model
+directory into `/work` by following the commands below:
 
 ```bash
 # Print RADMC-3D version and usage options
